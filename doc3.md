@@ -7,7 +7,7 @@ Bu belge, YeşilPort projesi kapsamında gerçekleştirilen kullanıcı ve müş
 
 ## 2. Hedef Kitle Profilleri
 Görüşmeler aşağıdaki profillerle gerçekleştirilmiştir:
-* Akademisyenler
+* Akademisyen
 * Ev Sahipleri
 * Kiracılar
 
@@ -26,3 +26,4 @@ Görüşmelerden elde edilen en kritik çıkarımlar:
 * **Güven Mekanizması:** Blockchain şeffaflığı bazı endişeleri giderse de, buna ek olarak "resmi uzman onayı" güveni maksimize edecektir.
 
 * **Prestij Etkisi:** Yüksek puana sahip binaların çevresine göre prestij kazanacağı düşüncesi, bazı kullanıcılar tarafından fırsat olarak görülüp olumlu karşılanmıştır.
+
